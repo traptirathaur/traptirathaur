@@ -11,4 +11,4 @@ I am in my journey to become a data science.
 - ⚡ Fun fact: Work with fun
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=traptirathaur&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traptirathaur&layout=compact&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traptirathaur&layout=compact&theme=transparent)
