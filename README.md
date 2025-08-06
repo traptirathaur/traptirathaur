@@ -2,9 +2,11 @@
 
 **traptirathaur/traptirathaur**
 
-In my journey to become a data science.
+#I am Trapti. 
+I am in my journey to become a data science.
 
 - 🌱 I’m currently learning "Foundations of Data Science".
 - 💬 Ask me about anything.
 - 📫 How to reach me: DM
 - ⚡ Fun fact: Work with fun
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=traptirathau&show_icons=true&theme=transparent)
