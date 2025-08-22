@@ -10,6 +10,6 @@ I am in my journey to become a data science.
 - 📫 How to reach me: DM
 - ⚡ Fun fact: Work with fun
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=traptirathaur&show_icons=true&theme=transparent)
+![Trapti's GitHub stats](https://github-readme-stats.vercel.app/api?username=traptirathaur&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traptirathaur&layout=compact&theme=transparent)
 
