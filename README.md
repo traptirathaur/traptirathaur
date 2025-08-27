@@ -1,14 +1,13 @@
-#About Me
+# Let's Know a Little About Me
 
-**traptirathaur/traptirathaur**
+I am Trapti, travelling into my world;
 
-#I am Trapti. 
-I am in my journey to become a data science.
+### From Notepad to Jupyter Notebook,
+### From Prime Numbers to Statistics,
+### From Excel to ML
 
-- 🌱 I’m currently learning "Foundations of Data Science".
-- 💬 Ask me about anything.
-- 📫 How to reach me: DM
-- ⚡ Fun fact: Work with fun
+- 🌱 Learning on the go; Sql Advanced Topics , PgSql, Python, ML
+- ⚡ Fun fact: A keyboard has a dedicated key for memes, look between H & L on your keyboard, the letters are J & K, as in "just kidding".
 
 ![Trapti's GitHub stats](https://github-readme-stats.vercel.app/api?username=traptirathaur&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traptirathaur&layout=compact&theme=transparent)
