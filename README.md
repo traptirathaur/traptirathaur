@@ -5,6 +5,7 @@ I am Trapti, actively transitioning into a Junior Data Scientist or Data Analyst
 ### Professional Summary - 
 Mathematics post‑graduate student with 4+ years of experience in MIS and data analytics within enterprise environments. I hold strong foundation in probability & statistics, sql and python with hands-on-experience in regression, classification, and hypothesis testing.
 
+
 - 🌱 Learning on the go; Probability & Statistics, Python, ML
 - ⚡ Fun fact: A keyboard has a dedicated key for memes, look between H & L on your keyboard, the letters are J & K, as in "just kidding".
 
